@@ -1,4 +1,4 @@
-# ignore virtual env, caches, datasets, weights (optional)
+# ignore virtual env, caches, datasets, weights
 .venv/
 __pycache__/
 .DS_Store
