@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ignore virtual env, caches, datasets
+=======
+# ignore virtual env, caches, datasets, weights
+>>>>>>> 21e9ec08124e206818b7a7de6c73277d99f21655
 .venv/
 __pycache__/
 .DS_Store
