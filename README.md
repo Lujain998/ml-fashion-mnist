@@ -66,6 +66,11 @@ After 5 epochs the model reached about 91.0% accuracy on the test set.
 
 The trained weights are saved as model.pt.
 
+### Training Output
+Here is a screenshot of the training progress:
+
+![Training Results](results.JPG)
+
 
 
 * Notes:
