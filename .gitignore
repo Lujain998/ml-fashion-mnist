@@ -1,0 +1,6 @@
+# ignore virtual env, caches, datasets, weights (optional)
+.venv/
+__pycache__/
+.DS_Store
+FashionMNIST/
+*.pt
